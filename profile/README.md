@@ -19,3 +19,5 @@
 * Free under MIT License
 * [Laravel 9.x integration](https://github.com/justboil/admin-one-vue-tailwind/blob/master/.laravel-guide/README.md) available
 * [Premium version](https://justboil.me/tailwind-admin-templates/vue-dashboard/) available
+
+[Learn more at justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind)
