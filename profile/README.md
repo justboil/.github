@@ -8,16 +8,4 @@
 
 **Admin One** is simple, beautiful and free Vue.js 3.x Tailwind CSS 3.x admin dashboard. Laravel 9.x integration available.
 
-* Built with **Vue.js 3**, **Tailwind CSS 3** framework & **Composition API**
-* **Vite** and **Vue CLI** build tools
-* **SFC** `<script setup>` [Info](https://v3.vuejs.org/api/sfc-script-setup.html)
-* **Dark mode**
-* **Styled** scrollbars
-* SPA with **Vuex** & **Router**
-* **Production CSS** is only **38kb**
-* Reusable components
-* Free under MIT License
-* [Laravel 9.x integration](https://github.com/justboil/admin-one-vue-tailwind/blob/master/.laravel-guide/README.md) available
-* [Premium version](https://justboil.me/tailwind-admin-templates/vue-dashboard/) available
-
-[Learn more at justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind)
+Learn more at [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind)
